@@ -12,3 +12,9 @@ I have learnt how to
 - Create a good .gitignore file [Gitignore.io] (https://gitignore.io)
 - Create a good .gitattributes file - from [GitAttributes.io]
 - commit my changes from visual studio within visual studio code
+- commit my changes through the command line 
+- 'git add .'
+- 'git status'
+-  'git commit -m "my Message (in qoutes")'
+- ' git pull'
+-  'git push'
